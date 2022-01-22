@@ -15,6 +15,7 @@ The server performs the following functions.
 9. Create a new file. 10. Receives the data from the client. 
 11. Write the data into the file. 
 12. The program is stopped.
+13. </n></n>
 
 2.	Client
 The client performs the following functions.
