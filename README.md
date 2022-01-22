@@ -2,7 +2,7 @@
 
 Implement simple file server using sockets. The file server should be able to take the request from any client and return the requested file to client or return error message, status to client. Consider all the possible inputs for the file server. Implement using programming. Compare this result with FTP by using suitable tools.
 
-1.	Server
+1.	Server<br>
 The server performs the following functions.
 1. Start the program. 
 2. Declare the variables and structures required. 
@@ -17,7 +17,7 @@ The server performs the following functions.
 12. The program is stopped.
 13. </n></n>
 
-2.	Client
+2.	Client<br>
 The client performs the following functions.
 1. Start the program 
 2. Declare the variables and structures required. 
